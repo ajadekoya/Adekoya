@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pajjay
+- 👋 Hi, I’m @ajadekoya
 - 👀 I’m interested in getting better at coding and learning new languages
 - 🌱 I’m currently improving my skills in Python, PyTorch, and SQL.
 - 💞️ I’m looking to collaborate on any new projects that can help me develop my abilities
