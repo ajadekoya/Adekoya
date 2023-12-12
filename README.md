@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pajjay
-- 👀 I’m interested in getting better at coding and learning new langauages
-- 🌱 I’m currently learning Python and R
+- 👀 I’m interested in getting better at coding and learning new languages
+- 🌱 I’m currently improving my skills in Python and PyTorch
 - 💞️ I’m looking to collaborate on any new projects that can help me develop my abilities
 - 📫 Feel free to email ajadekoya@gmail.com
 
